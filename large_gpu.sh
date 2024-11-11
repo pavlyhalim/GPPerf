@@ -3,9 +3,14 @@
 # Complete CUTLASS Extensive Profiling Script
 
 # Matrix dimensions to test
-M_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
-N_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
-K_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
+# M_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
+# N_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
+# K_SIZES=(512 1024 1536 2048 2560 3072 3584 4096 4608 5120 5632 6144 6656 7168 7680 8192)
+
+M_SIZES=(512 1024)
+N_SIZES=(512 1024)
+K_SIZES=(512 1024)
+
 
 # CUTLASS kernels with different configurations
 KERNELS=(
@@ -20,26 +25,26 @@ KERNELS=(
     "cutlass_simt_hgemm_128x128_8x2_tt_align1"
     
     # Tensor Core GEMM kernels - Ampere
-    "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align1"
-    "cutlass_tensorop_s16816gemm_128x128_32x3_nt_align1"
-    "cutlass_tensorop_s16816gemm_128x128_32x3_tn_align1"
-    "cutlass_tensorop_s16816gemm_128x128_32x3_tt_align1"
-    "cutlass_tensorop_h16816gemm_128x128_32x3_nn_align1"
-    "cutlass_tensorop_h16816gemm_128x128_32x3_nt_align1"
-    "cutlass_tensorop_h16816gemm_128x128_32x3_tn_align1"
-    "cutlass_tensorop_h16816gemm_128x128_32x3_tt_align1"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align1"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_nt_align1"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_tn_align1"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_tt_align1"
+    # "cutlass_tensorop_h16816gemm_128x128_32x3_nn_align1"
+    # "cutlass_tensorop_h16816gemm_128x128_32x3_nt_align1"
+    # "cutlass_tensorop_h16816gemm_128x128_32x3_tn_align1"
+    # "cutlass_tensorop_h16816gemm_128x128_32x3_tt_align1"
     
     # Larger tile sizes
-    "cutlass_tensorop_s16816gemm_256x128_32x3_nn_align1"
-    "cutlass_tensorop_s16816gemm_256x128_32x3_nt_align1"
-    "cutlass_tensorop_h16816gemm_256x128_32x3_nn_align1"
-    "cutlass_tensorop_h16816gemm_256x128_32x3_nt_align1"
+    # "cutlass_tensorop_s16816gemm_256x128_32x3_nn_align1"
+    # "cutlass_tensorop_s16816gemm_256x128_32x3_nt_align1"
+    # "cutlass_tensorop_h16816gemm_256x128_32x3_nn_align1"
+    # "cutlass_tensorop_h16816gemm_256x128_32x3_nt_align1"
     
     # Different alignments
-    "cutlass_simt_sgemm_128x128_8x2_nn_align4"
-    "cutlass_simt_sgemm_128x128_8x2_nn_align8"
-    "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align4"
-    "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align8"
+    # "cutlass_simt_sgemm_128x128_8x2_nn_align4"
+    # "cutlass_simt_sgemm_128x128_8x2_nn_align8"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align4"
+    # "cutlass_tensorop_s16816gemm_128x128_32x3_nn_align8"
 )
 
 # Different block sizes to test
@@ -59,8 +64,8 @@ STAGES=(2 3 4 5)
 # Epilogue operations
 EPILOGUES=(
     "linear_combination"
-    "linear_combination_relu"
-    "linear_combination_gelu"
+    # "linear_combination_relu"
+    # "linear_combination_gelu"
 )
 
 # Alpha/Beta combinations
