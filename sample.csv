@@ -1,0 +1,176 @@
+[poh2005@cuda5 cutlass_profiling_20241111_195357]$ cat results.csv 
+Energy_Joules,GFLOPS_per_Watt,TFLOPS1731372844,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,64,32,2,linear_combination,1,0,0.04352,,70.17, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,87902.151,6168.094
+1731372849,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,64,32,2,linear_combination,1,1,0.0459776,,70.03, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,83369.927,5838.396
+1731372856,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,64,32,2,linear_combination,0.5,0.5,0.04608,,69.95, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,83279.799,5825.422
+1731372863,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,64,32,2,linear_combination,2,0,0.04312,,70.03, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88894.930,6225.312
+1731372870,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,64,32,2,linear_combination,1,0,0.0433152,,70.20, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88280.014,6197.257
+1731372877,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,64,32,2,linear_combination,1,1,0.0463872,,69.88, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,82811.147,5786.843
+1731372885,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,64,32,2,linear_combination,0.5,0.5,0.0456832,,69.79, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,84195.744,5876.021
+1731372893,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,64,32,2,linear_combination,2,0,0.0437248,,69.56, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88257.662,6139.203
+1731372898,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,128,32,2,linear_combination,1,0,0.0431104,,69.46, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.002,89644.370,6226.698
+1731372906,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,128,32,2,linear_combination,1,1,0.0456704,,69.69, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,84340.192,5877.668
+1731372913,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,128,32,2,linear_combination,0.5,0.5,0.0459776,,69.52, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,83981.530,5838.396
+1731372918,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,64,128,32,2,linear_combination,2,0,0.0433152,,69.51, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,89156.337,6197.257
+1731372924,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,128,32,2,linear_combination,1,0,0.04352,,69.67, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88532.998,6168.094
+1731372931,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,128,32,2,linear_combination,1,1,0.0459776,,69.37, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,84163.125,5838.396
+1731372937,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,128,32,2,linear_combination,0.5,0.5,0.0458752,,69.52, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,84168.987,5851.428
+1731372942,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,128,32,2,linear_combination,2,0,0.0434464,,69.46, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88951.094,6178.543
+1731372948,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,256,128,32,2,linear_combination,1,0,0.0433152,,69.44, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,89246.212,6197.257
+1731372954,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,256,128,32,2,linear_combination,1,1,0.045792,,69.46, 2760, 10251, 46, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,84394.759,5862.060
+1731372960,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,256,128,32,2,linear_combination,0.5,0.5,0.0462048,,69.62, 2760, 10251, 46, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 46, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,83448.534,5809.687
+1731372966,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,256,128,32,2,linear_combination,2,0,0.0435232,,69.38, 2760, 10251, 46, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 46, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,88896.511,6167.640
+1731372973,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,256,32,2,linear_combination,1,0,0.0433152,,47.66, 2760, 10251, 43, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 45, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.002,130030.570,6197.257
+1731372980,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,256,32,2,linear_combination,1,1,0.045984,,82.01, 2760, 10251, 47, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 46, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,71181.355,5837.583
+1731372986,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,256,32,2,linear_combination,0.5,0.5,0.0462848,,84.65, 2760, 10251, 48, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 47, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,68513.242,5799.646
+1731372992,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,128,256,32,2,linear_combination,2,0,0.0439296,,85.08, 2760, 10251, 48, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 48, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,71821.603,6110.582
+1731372998,512,512,512,cutlass_simt_sgemm_128x128_8x2_nn_align1,nn,256,256,32,2,linear_combination,1,0,0.043008,,85.53, 2760, 10251, 48, 100, 0,NVIDIA GeForce RTX 4070, 8.9, 10501 MHz, 3105 MHz, 200.00 W, 48, Default, 12282 MiB, 11827 MiB, 176 MiB, 100 %, 0 %,kernel_name,cutlass_simt_sgemm_128x128_8x2_nn_align1
+arithmetic_intensity,85.33
+uses_shared_memory,0
+computation_pattern,GEMM
+problem_size_m,512
+problem_size_n,512
+problem_size_k,512,.003,72974.663,6241.523
