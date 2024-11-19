@@ -17,6 +17,7 @@ make cutlass_profiler -j12
 The commands are adapted from the cutlass [quick start guide](https://github.com/NVIDIA/cutlass/blob/main/media/docs/quickstart.md).
 
 ## Usage
+### Profiling using the cutlass profiler
 ```bash
 export CUTLASS_PROFILER="YOUR_CUTLASS_DIRECTORY/build/tools/profiler/cutlass_profiler" #change YOUR_CUTLASS_DIRECTORY to your path to the cutlass profiler. For example, /home/username/cutlass/build/tools/profiler/cutlass_profiler
 
@@ -34,3 +35,8 @@ Then run the model to predict the performance and energy of the kernel.
 python model.py
 ```
 
+### Profiling using our tiled matrix multiplication kernel
+```bash
+nvcc matmul.cu -lcublas -o matmul.o
+./matmul.o 512 512 512 16 # M N K TILE_SIZE
+```
