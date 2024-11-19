@@ -10,7 +10,7 @@ echo "M,N,K,Tile Size,Execution Time" > $OUTPUT_FILE
 M_SIZES=(512 1024 2048)
 N_SIZES=(512 1024 2048)
 K_SIZES=(512 1024 2048)
-TILE_SIZES=(8 16 32)
+TILE_SIZES=(1 4 8 16 32)
 
 # Iterate over all combinations of M, N, K, and Tile Size
 for M in "${M_SIZES[@]}"; do
