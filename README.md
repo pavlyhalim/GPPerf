@@ -1,11 +1,18 @@
 # GPPerf
 Energy-Aware GPU Performance Prediction and Optimization Framework
 
+Our goal is to predict the runtime and energy comsumption of SGEMM on NVIDIA GPU given different matrix sizes, block sizes, and tile sizes. We implemented a naive tiled matrix multiplication kernel and used it to gather the data for different tile sizes. We also used cutlass to gather the data with more advanced configurations. We then trained a model to predict the performance and energy consumption of SGEMM given different configurations.
+
 [Docs](https://docs.google.com/document/d/1DSFfXMxL58vp3B_QiVPaZDEwmR09cprOR4Ce817I7bQ/edit?tab=t.0)
 
 ## Installation
-clone the [cutlass repo](https://github.com/NVIDIA/cutlass.git). Then install cutlass by running the following commands (this works on cuda5 node. For other nodes, you may need to change the architecture flag):
+Our analysis used cuda5 node.
+**For the Ada Lovelace GPU on cuda5, we have already built the `cutlass_profiler` binary. You can directly use it to profile the kernels, and skip the installation process.**
+If you want to build the `cutlass_profiler` binary yourself, you can follow the instructions below.
+Clone the [cutlass repo](https://github.com/NVIDIA/cutlass.git). Then install cutlass by running the following commands (this works for Ada Lovelace architecture. For other nodes, you need to change the architecture flag):
 ```bash
+git clone https://github.com/NVIDIA/cutlass.git
+
 export CUDACXX=${CUDA_INSTALL_PATH}/bin/nvcc
 
 mkdir build && cd build
@@ -38,5 +45,27 @@ python model.py
 ### Profiling using our tiled matrix multiplication kernel
 ```bash
 nvcc matmul.cu -lcublas -o matmul.o
-./matmul.o 512 512 512 16 # M N K TILE_SIZE
+./matmul.o 512 512 512 8 #M N K TILE_SIZE
+```
+Sample output:
+```
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024
+cuBLAS result sample: 1024 1024 1024 1024 1024
+Execution time: 5.63299 ms
+```
+The "Tiled MM result sample" are results from our kernel, and the "cuBLAS result sample" are results from cuBLAS, which serves as a verification of the correctness of our kernel. The "Execution time" is the runtime of our kernel. We used the `cudaEventRecord` API to measure the runtime.
+
+You can use the script `matmul_prof.sh` to gather the runtime data, and `matmul_power_prof.sh` to gather the power data.
+The runtime data is stored in "execution_times.csv" with the following format:
+```
+M,N,K,Tile Size,Execution Time
+512,512,512,8,6.56141
+...
+```
+The power data is stored in "power_usage_results.csv" with the following format:
+```
+M,N,K,Tile Size,Average Power Usage (W)
+512,512,512,1,32.038
+...
 ```
