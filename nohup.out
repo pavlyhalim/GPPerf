@@ -1,0 +1,2343 @@
+Execution times and power usage saved to execution_times_with_power.csv
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 13010.7 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 35.3664 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 80.6099 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.6376 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 17313 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.74374 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.63299 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.16112 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.04032 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.66995 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.27453 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 4.24397 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.33706 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 120.146 ms
+Running tiled matrix multiplication with M=512, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.15286 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 53.7709 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 56.866 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 53.4843 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.0367 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.25555 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.3656 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 4.4736 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 4.59571 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.68928 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.03978 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.75146 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 4.95453 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.05213 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.36339 ms
+Running tiled matrix multiplication with M=512, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.93206 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 101.617 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 93.7809 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 93.7573 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.696 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.98723 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.66275 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.91866 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.7992 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.79869 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.77824 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.33226 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.49066 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.91802 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.49411 ms
+Running tiled matrix multiplication with M=512, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.38854 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 53.1097 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 52.4989 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 53.5613 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.37315 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.5279 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.62803 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.836 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.59341 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 4.9409 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.72768 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.60557 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.92163 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.05712 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.33277 ms
+Running tiled matrix multiplication with M=512, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.04755 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 101.79 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 92.4548 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 93.0401 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.51274 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.50102 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.60042 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.66515 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.81274 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.78803 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.37594 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.1624 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.94272 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.73485 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 4.51466 ms
+Running tiled matrix multiplication with M=512, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 4.81942 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 197.858 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 180.434 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 180.585 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.16093 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.70698 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 12.634 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.2864 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.4919 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.33581 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.78643 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.45622 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.89558 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.61494 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 5.45872 ms
+Running tiled matrix multiplication with M=512, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.84406 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 102.136 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 117.055 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 178.491 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.61978 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 14.8476 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 12.6871 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 176.637 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 60.2259 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 165.774 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 192.003 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 4.90182 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.41981 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 12.4594 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.06442 ms
+Running tiled matrix multiplication with M=512, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 10.6416 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 190.121 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 354.983 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 250.905 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 125.058 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.77494 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11.7521 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 118.775 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.82922 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 36.1493 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 12.6618 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.41155 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 196.11 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 20.0353 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 182.942 ms
+Running tiled matrix multiplication with M=512, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 172.065 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 567.063 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 356.559 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 356.649 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 179.432 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 13.2092 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 15.4588 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 36.4995 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.06474 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 51.5172 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 12.8888 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 36.2214 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.29411 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 344.707 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 294.283 ms
+Running tiled matrix multiplication with M=512, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 129.527 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 181.032 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 146.889 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 156.617 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 113.553 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 84.1231 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 62.7012 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 119.439 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 109.8 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 118.179 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 108.061 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 104.128 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 105.173 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.08896 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.05453 ms
+Running tiled matrix multiplication with M=1024, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.23482 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 101.301 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 93.3407 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 93.0345 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.05117 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.77923 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.76221 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.48346 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.6137 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.27837 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.4071 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.20451 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.17261 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.48106 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.92131 ms
+Running tiled matrix multiplication with M=1024, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.84416 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 195.663 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 180.769 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 181.876 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.80998 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.7471 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.21302 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.30669 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.4712 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.81318 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.62038 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.35789 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.03184 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 6.01424 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.53776 ms
+Running tiled matrix multiplication with M=1024, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.2648 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 101.77 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 101.181 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 93.6512 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.76976 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.47213 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.15808 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.73379 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.4801 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.02656 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.93536 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.24307 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.75501 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.67997 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.10163 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.08198 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 197.477 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 182.121 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 181.748 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.41638 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.23491 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.65795 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.7264 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.68976 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.94701 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.90214 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.73517 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.09773 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.01155 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.82163 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.67859 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 378.669 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 358.456 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 358.417 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 13.3448 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 13.6148 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 14.8216 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.9161 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.27632 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.69078 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.20461 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.0409 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.86112 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.67504 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.56285 ms
+Running tiled matrix multiplication with M=1024, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.43485 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 198.58 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 181.972 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 181.889 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.29782 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.68134 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.58854 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.09462 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.32426 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.65914 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.94656 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.73235 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.36637 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.35984 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.63043 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.75146 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 383.699 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 387.579 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 359.195 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 15.8098 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 14.3656 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 41.9741 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 50.6501 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 15.5352 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.09725 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 54.1553 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.41536 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.35683 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 26.6851 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.71197 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.61965 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 722.184 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 856.221 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 865.919 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 176.597 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 94.3788 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 84.5896 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 128.195 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 192.45 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 30.162 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 201.024 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 31.7176 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 44.1234 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 50.1927 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 39.8983 ms
+Running tiled matrix multiplication with M=1024, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 89.3276 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 201.772 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 268.777 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 281.761 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 166.028 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 203.202 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 200.334 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 182.434 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 164.727 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 195.582 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.42563 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.10826 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.51114 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.23814 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.77754 ms
+Running tiled matrix multiplication with M=2048, N=512, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 5.712 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 198.202 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 181.654 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 181.466 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 7.92355 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.86182 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.2607 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.5008 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.56445 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.14506 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.71997 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.71069 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.97347 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 5.84506 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.16256 ms
+Running tiled matrix multiplication with M=2048, N=512, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 6.69366 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 377.889 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 358.061 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 358.246 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 12.4659 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 12.8868 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 13.1396 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.86502 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.32717 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.50902 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.61421 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.33597 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 7.91216 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.00701 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.14592 ms
+Running tiled matrix multiplication with M=2048, N=512, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 8.28483 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 197.284 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 181.78 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 182.109 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.23808 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 9.35187 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 10.0108 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.52278 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.51453 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.72394 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.7448 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.83635 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.8072 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.44806 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 6.25238 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.47926 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 367.15 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 358.052 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 358.138 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 13.0554 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 13.7972 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 14.6172 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.53661 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.19382 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.68826 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.00013 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.36957 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.50768 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.57827 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.78003 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 8.58083 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 729.401 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 711.102 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 710.965 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 22.1404 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 21.7735 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 22.1903 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 11.1119 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 11.3581 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 11.2648 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.99174 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.85686 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.72387 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 10.4826 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 9.90256 ms
+Running tiled matrix multiplication with M=2048, N=1024, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 10.2289 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 367.255 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 358.762 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=1
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 357.943 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 13.9461 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 13.5486 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=4
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 14.4084 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.8175 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 8.23462 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=8
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 10.5693 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.37149 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.39939 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=16
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.16499 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.41402 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.97882 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=512, TILE_SIZE=32
+Tiled MM result sample: 1024 1024 1024 1024 1024 
+cuBLAS result sample: 1024 1024 1024 1024 1024 
+Execution time: 7.82192 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 725.827 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 709.012 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 708.067 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 20.5724 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 22.4471 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 20.9453 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 10.5157 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11.0008 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11.6944 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.44006 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 9.64253 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 10.9657 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11.1143 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11.1688 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 10.3589 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 1422.29 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 1412.41 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=1
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 1414.05 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 39.1444 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 40.0767 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=4
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 42.7214 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 18.2609 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 17.6928 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=8
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 18.6664 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 15.7161 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 15.9939 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=16
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 15.9524 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 17.5024 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 17.4339 ms
+Running tiled matrix multiplication with M=2048, N=2048, K=2048, TILE_SIZE=32
+Tiled MM result sample: 4096 4096 4096 4096 4096 
+cuBLAS result sample: 4096 4096 4096 4096 4096 
+Execution time: 17.4012 ms
+Power usage results saved to power_usage_results.csv
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11459.1 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11358 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 11487.9 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 442.864 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 462.067 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 441.275 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 209.024 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 221.411 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 96.8893 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 82.9542 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 82.9477 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 82.6531 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 89.7512 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 88.8202 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 97.4347 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 152833 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 153005 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 152789 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3975.51 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3971.31 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3933.64 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1506.96 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1550.87 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1606.23 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 680.107 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 861.12 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 836.054 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 999.909 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 948.632 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 743.913 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 305591 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 315834 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 319458 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 7949.37 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 7800.46 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 7926.04 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2581.93 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2571.48 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2568.62 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1289.16 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1299.47 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1298.23 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1472.79 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1459.86 ms
+Running tiled matrix multiplication with M=8192, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1475.93 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 37939.6 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 38090.5 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 37954.3 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 868.194 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 867.543 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 869.383 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 237.088 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 236.127 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 245.481 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 206.834 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 168.864 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 208.619 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 215.919 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 194.748 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 188.277 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 305852 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 305824 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 305505 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7578.93 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7571.81 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7727.6 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3121.86 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3087.76 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3016.32 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1495.32 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1467.69 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1497.19 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1473.77 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1469.4 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1475.9 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 614879 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 628189 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 633092 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15766.1 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15933.1 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15894.3 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5254.56 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5219.77 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5178.68 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2829.89 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 3079.49 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2939.12 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 3224.2 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 3368.56 ms
+Running tiled matrix multiplication with M=8192, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 3428.45 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 40400.1 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 24070.8 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 24184.2 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 561.262 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 554.092 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 560.989 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 194.217 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 212.82 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 190.941 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 162.176 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 162.983 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 162.309 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 175.58 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 189.654 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 175.539 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 329406 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 332676 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 309176 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7785.11 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7788.09 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 7630.65 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3004.01 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2994.56 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3101.57 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1378 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1404.72 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1301.76 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1459.01 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1464.84 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 1473.95 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 615546 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 612780 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 612209 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15804.9 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15769.4 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 15599.1 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5113.37 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5085.87 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5120.71 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2589.75 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 3589.37 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2594.92 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2923.97 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2919.64 ms
+Running tiled matrix multiplication with M=16384, N=8192, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 2946.88 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 76064.4 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 75982.6 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=1
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 75972 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 1752.4 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 1745.47 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=4
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 1744.85 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 474.909 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 468.797 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=8
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 475.875 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 344.039 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 340.748 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=16
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 335.757 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 387.777 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 378.395 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=1024, TILE_SIZE=32
+Tiled MM result sample: 2048 2048 2048 2048 2048 
+cuBLAS result sample: 2048 2048 2048 2048 2048 
+Execution time: 388.637 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 611002 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 621584 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=1
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 616893 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 15143.5 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 15146 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=4
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 15149.8 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 6016.89 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 6007.49 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=8
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 6050.92 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2604.17 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2586.18 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=16
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2638.43 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2930.19 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 3112.43 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=8192, TILE_SIZE=32
+Tiled MM result sample: 16384 16384 16384 16384 16384 
+cuBLAS result sample: 16384 16384 16384 16384 16384 
+Execution time: 2926.22 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1.27281e+06 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1.22283e+06 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=1
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 1.26321e+06 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 31640.9 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 31922.9 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=4
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 31858.7 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 10281.9 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 10444.8 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=8
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 10432 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5284.04 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5295.11 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=16
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5291.05 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5933.77 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5942.68 ms
+Running tiled matrix multiplication with M=16384, N=16384, K=16384, TILE_SIZE=32
+Tiled MM result sample: 32768 32768 32768 32768 32768 
+cuBLAS result sample: 32768 32768 32768 32768 32768 
+Execution time: 5956.61 ms
+Power usage results saved to power_usage_results_large.csv
