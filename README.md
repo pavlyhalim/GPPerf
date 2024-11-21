@@ -56,7 +56,7 @@ Execution time: 5.63299 ms
 ```
 The "Tiled MM result sample" are results from our kernel, and the "cuBLAS result sample" are results from cuBLAS, which serves as a verification of the correctness of our kernel. The "Execution time" is the runtime of our kernel. We used the `cudaEventRecord` API to measure the runtime.
 
-You can use the script `matmul_prof.sh` to gather the runtime data, and `matmul_power_prof.sh` to gather the power data.
+You can use the script `matmul_runtime_prof.sh` to gather the runtime data, and `matmul_power_prof.sh` to gather the power data.
 The runtime data is stored in "execution_times.csv" with the following format:
 ```
 M,N,K,Tile Size,Execution Time

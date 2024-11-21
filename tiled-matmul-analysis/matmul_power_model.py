@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 import numpy as np
 
 # Load the data from CSV
-data_file = "power_usage_results_all.csv"  # Update with your actual CSV file path
+data_file = "profiling/power_usage_results_all.csv"  # Update with your actual CSV file path
 data = pd.read_csv(data_file)
 
 # Separate features (X) and target (y)
