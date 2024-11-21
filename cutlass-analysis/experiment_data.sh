@@ -11,10 +11,6 @@ KERNELS=(
     "cutlass_simt_sgemm_128x128_8x2_nt_align1"
     "cutlass_simt_sgemm_128x128_8x2_tn_align1"
     "cutlass_simt_sgemm_128x128_8x2_tt_align1"
-    "cutlass_simt_hgemm_128x128_8x2_nn_align1"
-    "cutlass_simt_hgemm_128x128_8x2_nt_align1"
-    "cutlass_simt_hgemm_128x128_8x2_tn_align1"
-    "cutlass_simt_hgemm_128x128_8x2_tt_align1"
 )
 
 # Block size configurations
