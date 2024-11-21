@@ -136,17 +136,20 @@ float run_tiling_mm(int M, int N, int K, int tile_size) {
     CUDA_CHECK(cudaMemcpy(a_d, a, M * K * sizeof(float), cudaMemcpyHostToDevice));
     CUDA_CHECK(cudaMemcpy(b_d, b, K * N * sizeof(float), cudaMemcpyHostToDevice));
 
-    // Launch the kernel
-    dim3 dimBlock(tile_size, tile_size);
-    dim3 dimGrid((N + tile_size - 1) / tile_size, (M + tile_size - 1) / tile_size);
-    int shared_mem_size = 2 * tile_size * tile_size * sizeof(float);
+    int numBlocksPerSM = 0;
+    int blockSize = tile_size * tile_size;
+    int sharedMemSize = 2 * tile_size * tile_size * sizeof(float);
 
-    CUDA_CHECK(cudaOccupancyMaxActiveBlocksPerMultiprocessor(&numBlocksPerSM, op_mm_kernel, blockSize, sharedMemSize));
+    CUDA_CHECK(cudaOccupancyMaxActiveBlocksPerMultiprocessor(
+        &numBlocksPerSM, op_mm_kernel, blockSize, sharedMemSize));
 
     std::cout << "Max active blocks per SM: " << numBlocksPerSM << std::endl;
 
+    dim3 dimBlock(tile_size, tile_size);
+    dim3 dimGrid((N + tile_size - 1) / tile_size, (M + tile_size - 1) / tile_size);
+
     CUDA_CHECK(cudaEventRecord(start));
-    op_mm_kernel<<<dimGrid, dimBlock, shared_mem_size>>>(a_d, b_d, c_d, M, N, K, tile_size);
+    op_mm_kernel<<<dimGrid, dimBlock, sharedMemSize>>>(a_d, b_d, c_d, M, N, K, tile_size);
     CUDA_CHECK(cudaEventRecord(stop));
     CUDA_CHECK(cudaEventSynchronize(stop));
     CUDA_CHECK(cudaEventElapsedTime(&eventMs, start, stop));
