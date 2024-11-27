@@ -1,5 +1,6 @@
 # GPPerf
-Energy-Aware GPU Performance Prediction and Optimization Framework
+Understanding GEMM Performance and Energy on NVIDIA Ada Lovelace: A Machine Learning-Based Analytical Approach
+
 
 Our goal is to predict the runtime and energy comsumption of SGEMM on NVIDIA GPU given different matrix sizes, block sizes, and tile sizes. We implemented a naive tiled matrix multiplication kernel and used it to gather the data for different tile sizes. We also used cutlass to gather the data with more advanced configurations. We then trained a model to predict the performance and energy consumption of SGEMM given different configurations.
 
